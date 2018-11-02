@@ -1,1 +1,64 @@
 # Favourite
+
+<!DOCTYPE html>
+<html>
+
+<head>
+   <meta lang="En">
+  <title>My Favourites</title>
+  <meta charset="utf 8">
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="details">
+   <h1>My Favourite Things</h1> 
+
+   <p>This page is dedicated to my favourite  books,songs food and more!</p>
+   
+
+   <h2>My Favourite Books</h2>
+    <ul>
+       <li><a href="www.free-ebooks.net" target="blank">Money Won't Make You Rich</a> By Sunday Adejaja</li>
+       <li><a href="www.free-ebooks.net" target="blank">Why I kissed Dating Goodby</a> By Steve Harris</li>
+       <li><a href="www.free-ebooks.net" target="blank">Single  But Not Stupid</a> By Tekena Ikoko</li>
+       <li><a href="www.free-ebooks.net" target="blank">Smart Money Woman</a> By Arese Ugwu</li>
+       <li><a href="www.free-ebooks.net" target="blank">Understanding Sex</a> By Pst. Exekiel Atang</li>
+    </ul>
+    
+
+  <h2>My Favourite Food</h2>
+    <ul>
+       <li><a href="https://food.jumia.com.ng/" target="blank">Pizza</a></li>
+       <li><a href="https://food.jumia.com.ng/" target="blank"> Fried Rice and Roast Chicken</a></li>
+       <li><a href="https://food.jumia.com.ng/" target="blank">Sharwama</a></li>
+       <li><a href="https://food.jumia.com.ng/" target="blank">Afang Soup and Fufu</a></li>
+       <li><a href="https://food.jumia.com.ng/" target="blank">Chicken Burger and Ice Cream</a></li>
+    </ul>
+
+
+    <h2>My Favourite Songs</h2>
+   <ul>
+       <li><a href="http://www.naijaloaded.com.ng" target="blank">The Hill</a> By Travis Greene</li>
+       <li><a href="http://www.naijaloaded.com.ng" target="blank">Oceans</a> By Hillsong</li>
+       <li><a href="http://www.naijaloaded.com.ng" target="blank">At The Cross</a> By Zoe Grace</li>
+       <li><a href="http://www.naijaloaded.com.ng" target="blank">Broken</a> By Shekinah Glory</li>
+       <li><a href="http://www.naijaloaded.com.ng" target="blank">Indescribable</a> By Kierra Sheard</li>
+    </ul>
+
+
+    <h2>My Favourite Movies</h2>
+    <ul>
+       <li><a href="www.netflix.com" target="blank">Black Panther</a></li>
+       <li><a href="www.netflix.com" target="blank">Nappily Ever After</a></li>
+       <li><a href="www.netflix.com" target="blank">Stardust</a></li>
+       <li><a href="www.netflix.com" target="blank">Boss Baby</a></li>
+       <li><a href="www.netflix.com" target="blank">Coco</a></li>
+    </ul>
+    </div>
+
+    <p>Author: Glory Praise</p>
+</body>
+
+
+</html>

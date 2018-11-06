@@ -64,37 +64,3 @@
 </html>
 
 
-body {
-    background-color: rgb(238, 169, 209);
-    color: rgb(29, 12, 102);
-}
-
-a {
-
-    text-decoration: none;
-}
-
-a:hover {
-    background-color: rgb(248, 185, 195);
-    text-transform: uppercase;
-    color: purple;
-}
-
-.details {
-    line-height: 1.4em;
-}
-
-p {
-    font-size: 20px;
-    font-style: italic;
-}
-
-h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 38px;
-    font-style: normal;
-}
-
-h2 {
-    font-family: Arial, Helvetica, sans-serif;
-}
